@@ -1,4 +1,4 @@
-#Sat Jul 07 15:27:04 IST 2018
-base.0=/home/sahil/AndroidStudioProjects/ExpenseManagerClass/app/build/intermediates/transforms/dexMerger/debug/20
+#Mon Jul 16 15:43:01 IST 2018
+base.0=C\:\\Users\\SHUVAM\\AndroidStudioProjects\\Expense-Multi-View-List-Assignment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
 path.0=classes.dex
 renamed.0=classes.dex
